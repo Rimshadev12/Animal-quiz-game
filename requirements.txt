@@ -1,0 +1,2 @@
+# Animal Quiz Game dependencies
+# No external libraries required, works with Python 3.x
